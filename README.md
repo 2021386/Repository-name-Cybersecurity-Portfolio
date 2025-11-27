@@ -1,4 +1,4 @@
-# Repository-name-Cybersecurity-Portfolio
+**Cybersecurity Portfolio – Penetration Testing Project**
 
 This repository contains my penetration testing and vulnerability assessment project completed as part of my Network & System Security module.
 
