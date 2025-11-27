@@ -16,7 +16,8 @@ The assessment includes reconnaissance, scanning, exploitation, network attacks,
 - Wireshark (packet analysis)
 - SET (Social Engineering Toolkit)
 
-**Project Highlights**
+**Project Highlights** 
+
 **1. Reconnaissance & Scanning**
 - Port scanning
 - Service enumeration
@@ -56,7 +57,7 @@ The assessment includes reconnaissance, scanning, exploitation, network attacks,
 - Security hardening recommendations
 - Best practice fixes (patching, ACLs, strong auth, encryption)
 
-**Files Included**
+   **Files Included**
 - Penetration_Testing_Report.pdf
   Full report including methodology, attack steps, evidence, and remediation.
 
